@@ -16,7 +16,7 @@ h1{
     padding: 20px;
     margin: 20px;
     border: solid;
-    border-width: 2px;
+    border-width: 3px;
     border-color: cyan;
     background-color: aliceblue;
 }
@@ -27,7 +27,7 @@ img{
     padding: 20px;
     margin: 20px;
     border: solid;
-    border-width: 2px;
+    border-width: 3px;
     border-color: yellow;
     background-color: aliceblue;
 }
