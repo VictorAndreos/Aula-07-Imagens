@@ -1,0 +1,33 @@
+html{
+    background-color: black;
+}
+
+h1{
+    background-color: aliceblue;
+    color: #ff0095;
+    padding: 20px;
+    margin: 20px;
+    border: solid;
+    border-width: 2px;
+    border-color: #ff0095;
+}
+
+.especial{
+    padding: 20px;
+    margin: 20px;
+    border: solid;
+    border-width: 2px;
+    border-color: cyan;
+    background-color: aliceblue;
+}
+
+
+
+img{
+    padding: 20px;
+    margin: 20px;
+    border: solid;
+    border-width: 2px;
+    border-color: yellow;
+    background-color: aliceblue;
+}
